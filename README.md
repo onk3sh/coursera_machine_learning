@@ -1,2 +1,3 @@
-# coursera_machine_learning
-Octave Exercises performed for Machine Learning Course
+# Machine Learning Coursera
+
+Octave Exercises performed for Machine Learning Course: https://www.coursera.org/learn/machine-learning/
